@@ -1,5 +1,4 @@
 import os
-from pathlib import Path
 from conans import ConanFile, CMake
 
 
