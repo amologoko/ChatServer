@@ -1,0 +1,11 @@
+bin/
+lib/
+package/
+CMakeFiles/
+Testing/ 
+__pycache__
+Makefile
+*.cmake
+CMakeCache*
+conaninfo.txt 
+conanbuildinfo.*
